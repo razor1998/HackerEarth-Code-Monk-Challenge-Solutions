@@ -8,6 +8,4 @@ For each test case:
 2) The next line consists of N space separated integers , denoting the elements of the array A.
 Output:
 Print the required array.
-
-Preview:
 ![alt](img.png)
