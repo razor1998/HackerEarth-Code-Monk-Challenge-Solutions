@@ -9,6 +9,4 @@ First line contains a string S, , where S denotes the length of the string.
 
 Output:
 Print an integer denoting the length of the longest good substring, that is substring consists of only vowels.
-
-Preview:
 ![alt](img.png)
