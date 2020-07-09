@@ -11,6 +11,4 @@ Next line consists of N space separated integers denoting the array B.
 
 Output:
 Print N space separated integers denoting the array C.
-
-Preview:
 ![alt](img.png)
